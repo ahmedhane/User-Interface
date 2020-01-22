@@ -30,6 +30,7 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	
 }
 ol, ul {
 	list-style: none;
@@ -64,3 +65,15 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.header-row{
+	display: inline-block;
+	width: 95%;
+	border: 1px solid black;
+}
+nav{
+	display: inline-block;
+	width: 80%;
+	margin: 2%;
+	border: 1px solid black;
+
+}
